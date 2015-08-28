@@ -1,0 +1,12 @@
+Obsługa bazy danych:
+http://www.7thsunrise.com/blog/prosta-klasa-php-do-zarzadzania-baza-danych-mysql-cz-1/
+http://www.7thsunrise.com/blog/prosta-klasa-php-do-zarzadzania-baza-danych-mysql-cz-2/
+
+Wstawianie obrazków:
+http://www.w3schools.com/php/php_file_upload.asp
+
+Logowanie:
+http://www.formget.com/login-form-in-php/ 
+
+Obrazki:
+http://www.avatarsdb.com/people/

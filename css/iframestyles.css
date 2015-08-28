@@ -1,0 +1,26 @@
+ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+} 
+li {
+    display: inline-block;
+    min-height: 30px;
+    min-width: 120px;
+    border-style: solid none;
+    border-width: 1px;
+    border-color: darkgray;
+    margin: 0px;
+    padding: 0px;
+}
+h3 {
+    padding: 0px;
+    margin: 0px;
+}
+.jumbotron {
+    padding: 20px;
+}
+input, select {
+    display: inline-block;
+    margin: 5px;    
+}
