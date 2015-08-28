@@ -6,6 +6,8 @@ Informacje potrzebne do połączenia z bazą danych ustawione w db/db.php na poc
 
 Aby zainicjalizować bazę danych według obecnych ustawień, trzeba stworzyć bazę danych 'company' której dane znajdują się w db.php a następnie ręcznie wstawić kod sql z pliku 'db_init.sql' aby stworzyć odpowiednie tabele i kolumny a także login i hasło użytkownika (root, 1234).
 
+Ponad to w repozytorium znajduje się folder ze zdjęciami na których testowałem kod.
+
 W links.txt podaje linki które mi pomogły z częścią kodu - nie napisałem wszystkiego od początku do końca, ale mam wrażenie że to jest dość normalne...
 
 Mam nadzieje że reszta jest w miarę zrozumiała, w 'db' są pliki powiązane z bazą danych pracowników, w 'login' są pliki powiązane z logowaniem.
